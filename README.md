@@ -9,6 +9,7 @@
 
 
 # Languages and tools I know (and am passionate about!)
+
 ![java.png](https://github.com/Annachang828/pic/blob/d8cfcc4296ee84138c84548c75232f8a38070fe5/java.png)
 ![c3.png](https://github.com/Annachang828/pic/blob/4ee5aa74a47fa46187b0e815de91925522c8b03c/c3.png)
 ![css.png](https://github.com/Annachang828/pic/blob/3e6d31be697bdb4c96bfea68893d695c19c721cd/css.png)
@@ -22,8 +23,6 @@
 ![linux.png](https://github.com/Annachang828/pic/blob/3e6d31be697bdb4c96bfea68893d695c19c721cd/linux.png)
 
 # Stats 📈
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Annachang828&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Annachang828&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
