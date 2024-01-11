@@ -8,7 +8,26 @@
 - ⚡ Fun fact: I love working out and lifting the weight more than myself.
 
 
+# Languages and tools I know (and am passionate about!)
+![java.png](https://github.com/Annachang828/pic/blob/d8cfcc4296ee84138c84548c75232f8a38070fe5/java.png)
+![c3.png](https://github.com/Annachang828/pic/blob/4ee5aa74a47fa46187b0e815de91925522c8b03c/c3.png)
+![css.png](https://github.com/Annachang828/pic/blob/3e6d31be697bdb4c96bfea68893d695c19c721cd/css.png)
+![html.png](https://github.com/Annachang828/pic/blob/3e6d31be697bdb4c96bfea68893d695c19c721cd/html.png)
+![js.png](https://github.com/Annachang828/pic/blob/3e6d31be697bdb4c96bfea68893d695c19c721cd/js.png)
+![php.png](https://github.com/Annachang828/pic/blob/3e6d31be697bdb4c96bfea68893d695c19c721cd/php.png)
+
+![sql.png](https://github.com/Annachang828/pic/blob/3e6d31be697bdb4c96bfea68893d695c19c721cd/sql.png)
+![mysql.png](https://github.com/Annachang828/pic/blob/3e6d31be697bdb4c96bfea68893d695c19c721cd/mysql.png)
+![oracle.png](https://github.com/Annachang828/pic/blob/3e6d31be697bdb4c96bfea68893d695c19c721cd/oracle.png)
+![linux.png](https://github.com/Annachang828/pic/blob/3e6d31be697bdb4c96bfea68893d695c19c721cd/linux.png)
+
+# Stats 📈
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Annachang828&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Annachang828&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 # Let's connect! 🌎
 
-[![LinkedIn](https://github.com/SantiagoG117/Icons/blob/main/linkidNEW.png)](https://www.linkedin.com/in/annachangtsaichun/)
+[![LinkedIn](https://github.com/Annachang828/pic/blob/3e6d31be697bdb4c96bfea68893d695c19c721cd/linkedin.png)](https://www.linkedin.com/in/annachangtsaichun/)
