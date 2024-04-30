@@ -13,18 +13,9 @@
 # Languages and tools I know (and am passionate about!)
 
 
-![java.png](https://github.com/Annachang828/pic/blob/d8cfcc4296ee84138c84548c75232f8a38070fe5/java.png)
-![c3.png](https://github.com/Annachang828/pic/blob/4ee5aa74a47fa46187b0e815de91925522c8b03c/c3.png)
-![css.png](https://github.com/Annachang828/pic/blob/3e6d31be697bdb4c96bfea68893d695c19c721cd/css.png)
-![html.png](https://github.com/Annachang828/pic/blob/3e6d31be697bdb4c96bfea68893d695c19c721cd/html.png)
-![js.png](https://github.com/Annachang828/pic/blob/3e6d31be697bdb4c96bfea68893d695c19c721cd/js.png)
-![php.png](https://github.com/Annachang828/pic/blob/3e6d31be697bdb4c96bfea68893d695c19c721cd/php.png)
+[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,php,mysql,androidstudio,bash,c,py)](https://skillicons.dev)
 <br/>
-![Android_Studio_Logo.png](https://github.com/Annachang828/ImageForProfile/blob/a7ef010deae4077cfdfb5b2e2312be238892099e/Android_Studio_Logo.png)
-![sql.png](https://github.com/Annachang828/pic/blob/3e6d31be697bdb4c96bfea68893d695c19c721cd/sql.png)
-![mysql.png](https://github.com/Annachang828/pic/blob/3e6d31be697bdb4c96bfea68893d695c19c721cd/mysql.png)
-![oracle.png](https://github.com/Annachang828/pic/blob/3e6d31be697bdb4c96bfea68893d695c19c721cd/oracle.png)
-![linux.png](https://github.com/Annachang828/pic/blob/3e6d31be697bdb4c96bfea68893d695c19c721cd/linux.png)
+[![My Skills](https://skillicons.dev/icons?i=windows,linux)](https://skillicons.dev)
 
 <br/>
 
