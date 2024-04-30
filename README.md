@@ -1,7 +1,7 @@
 # Hello, I am Tsaichun Chang. 👋
 
 
-- 🎓 I am a Computer Programming Level 3 student at Algonquin College!
+- 🎓 I am Algonquin College Computer Programming student! (👉 Co-op term 1). Expected May 2025.
 - 🔭 I’m interested in using code to solve problems logically.❤️
 - 🌱 I’m currently learning about Agile with Jira, and software Testing methods.
 - 👯 I’m looking to collaborate on projects to continue learning about programming (In love with back-end and data science! 💻).
@@ -34,7 +34,7 @@
 # Let's connect! 🌎
 
 
-[![LinkedIn](https://github.com/Annachang828/pic/blob/3e6d31be697bdb4c96bfea68893d695c19c721cd/linkedin.png)](https://www.linkedin.com/in/annachangtsaichun/)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
 
 
 
