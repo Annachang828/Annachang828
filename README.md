@@ -34,7 +34,7 @@
 # Let's connect! 🌎
 
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/annachangtsaichun/)
 
 
 
