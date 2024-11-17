@@ -1,7 +1,7 @@
 # Hello, I am Tsaichun Chang. 👋
 
 
-- 🎓 I am Algonquin College Computer Programming student! (👉 Co-op term 1). Expected May 2025.
+- 🎓 I am Algonquin College Computer Programming student! (👉 Co-op term 2). Expected May 2025.
 - 🔭 I’m interested in using code to solve problems logically.❤️
 - 🌱 I’m currently learning about Agile with Jira, and software Testing methods.
 - 👯 I’m looking to collaborate on projects to continue learning about programming (In love with back-end and data science! 💻).
