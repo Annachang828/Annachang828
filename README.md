@@ -1,10 +1,9 @@
-# Hello, I am Tsaichun Chang. 👋
+# Hello, I am Tsaichun(Anna) Chang. 👋
 
 
-- 🎓 I am Algonquin College Computer Programming student! (👉 Co-op term 2). Expected May 2025.
+- 🎓 I am Algonquin College Computer Programming student! Expected May 2025.
 - 🔭 I’m interested in using code to solve problems logically.❤️
-- 🌱 I’m currently learning about Agile with Jira, and software Testing methods.
-- 👯 I’m looking to collaborate on projects to continue learning about programming (In love with back-end and data science! 💻).
+- 🌱 I’m currently learning about Python.
 - 📫 How to reach me: chan0558@algonquinlive.com
 - ⚡ Fun fact: I love working out and lifting the weight more than myself.
   
